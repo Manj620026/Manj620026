@@ -129,10 +129,34 @@ The poller's scope is national: SSC, RRB, IBPS, UPSC, UPSSSC, NTA, MP ESB, state
 
 #### Stack
 
-<img alt="Node.js, Express, MongoDB, Redis, React, TypeScript, Vite, Tailwind, nginx, Google Cloud, Cloudflare, Firebase, Android" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,react,ts,vite,tailwind,nginx,gcp,cloudflare,firebase,androidstudio">
+<p>
+<img width="48" height="48" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js">
+<img width="48" height="48" src="https://skillicons.dev/icons?i=express" alt="Express" title="Express">
+<img width="48" height="48" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB">
+<img width="48" height="48" src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis">
+<img width="48" height="48" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase">
+<img width="48" height="48" src="https://skillicons.dev/icons?i=react" alt="React" title="React">
+<img width="48" height="48" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript">
+<img width="48" height="48" src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite">
+<img width="48" height="48" src="https://raw.githubusercontent.com/Manj620026/Manj620026/main/assets/icons/capacitor.svg" alt="Capacitor" title="Capacitor">
+<img width="48" height="48" src="https://raw.githubusercontent.com/Manj620026/Manj620026/main/assets/icons/reactquery.svg" alt="TanStack Query" title="TanStack Query">
+<img width="48" height="48" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS">
+<br>
+<img width="48" height="48" src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" title="Android Studio">
+<img width="48" height="48" src="https://skillicons.dev/icons?i=nginx" alt="nginx" title="nginx">
+<img width="48" height="48" src="https://raw.githubusercontent.com/Manj620026/Manj620026/main/assets/icons/pm2.svg" alt="PM2" title="PM2">
+<img width="48" height="48" src="https://raw.githubusercontent.com/Manj620026/Manj620026/main/assets/icons/wireguard.svg" alt="WireGuard" title="WireGuard">
+<img width="48" height="48" src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" title="Google Cloud">
+<img width="48" height="48" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare">
+<img width="48" height="48" src="https://raw.githubusercontent.com/Manj620026/Manj620026/main/assets/icons/cloudflarepages.svg" alt="Cloudflare Pages" title="Cloudflare Pages">
+<img width="48" height="48" src="https://raw.githubusercontent.com/Manj620026/Manj620026/main/assets/icons/puppeteer.svg" alt="Puppeteer" title="Puppeteer">
+<img width="48" height="48" src="https://raw.githubusercontent.com/Manj620026/Manj620026/main/assets/icons/googlegemini.svg" alt="Gemini" title="Gemini">
+<img width="48" height="48" src="https://raw.githubusercontent.com/Manj620026/Manj620026/main/assets/icons/k6.svg" alt="k6" title="k6">
+<img width="48" height="48" src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest">
+</p>
 
 <details>
-<summary>Grouped, including the tools that don't have an icon</summary>
+<summary>The same stack, grouped by layer</summary>
 
 - **Backend & data:** Node.js, Express, MongoDB, Redis, BullMQ, Firebase Cloud Messaging
 - **Web & mobile:** React 19, TypeScript, Vite, Capacitor (Android), TanStack Query, Tailwind
