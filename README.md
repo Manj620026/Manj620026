@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi, I'm Manjot 👋
+# Hi, I'm Manjot 👋
 
 **I design, ship and run production systems.**
 
