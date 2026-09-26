@@ -9,13 +9,12 @@
      logged-out visitor until they are.
   2. examnagar-backend and examnagar-frontend: scrub the production IPs from docs/,
      and restrict the Firebase API keys in Google Cloud console.
-  3. Fill in the Contact block at the bottom.
-  4. Re-read "Now". It has to still be true on the day this goes live.
-  5. Open github.com/Manj620026 in a logged-out window. Click every link, and
+  3. Re-read "Now". It has to still be true on the day this goes live.
+  4. Open github.com/Manj620026 in a logged-out window. Click every link, and
      confirm the diagram renders on the profile page itself.
-  6. Pin six repos in this order: examnagar-backend, examnagar-frontend,
+  5. Pin six repos in this order: examnagar-backend, examnagar-frontend,
      sarkari-engine, examnagar-seo, examnagar-studio, examnagar-admin.
-  7. Delete this comment.
+  6. Delete this comment.
 -->
 
 ### Hi, I'm Manjot 👋
@@ -30,6 +29,7 @@ Alongside it, **Sarkari Engine** builds government recruitment pages only from w
   <a href="https://play.google.com/store/apps/details?id=com.examnagar.app"><img alt="ExamNagar on Google Play" src="https://img.shields.io/badge/Google_Play-ExamNagar-414141?style=flat-square&logo=googleplay&logoColor=white"></a>
   <a href="https://examnagar.com"><img alt="examnagar.com status" src="https://img.shields.io/website?url=https%3A%2F%2Fexamnagar.com&style=flat-square&label=examnagar.com&up_message=live&up_color=2ea44f&down_message=down&down_color=critical"></a>
   <a href="https://api.examnagar.com"><img alt="api.examnagar.com status" src="https://img.shields.io/website?url=https%3A%2F%2Fapi.examnagar.com&style=flat-square&label=api.examnagar.com&up_message=live&up_color=2ea44f&down_message=down&down_color=critical"></a>
+  <a href="mailto:manjotsingh620026@gmail.com"><img alt="Email manjotsingh620026@gmail.com" src="https://img.shields.io/badge/Email-manjotsingh620026%40gmail.com-414141?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -152,8 +152,6 @@ The poller's scope is national: SSC, RRB, IBPS, UPSC, UPSSSC, NTA, MP ESB, state
 - Adding product analytics to ExamNagar, so this page can eventually say how many candidates it got to their exam on time.
 - Taking Sarkari Engine's built pages beyond Bihar.
 
-<!--
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Email](mailto:you@example.com)
--->
+[manjotsingh620026@gmail.com](mailto:manjotsingh620026@gmail.com)
