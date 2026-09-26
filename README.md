@@ -1,17 +1,22 @@
+<div align="center">
+
 ### Hi, I'm Manjot 👋
 
-I design, ship and run production systems.
+**I design, ship and run production systems.**
+
+<img alt="ExamNagar is live on Google Play. Its API handles 4,300 requests a second at 0.00% failed. 16,640 static pages with zero dependencies. 10,647 trains, searched in under 100 ms." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=ExamNagar+%C2%B7+live+on+Google+Play;4%2C300+req%2Fs+%C2%B7+0.00%25+failed;16%2C640+static+pages+%C2%B7+zero+dependencies;10%2C647+trains+%C2%B7+searched+in+under+100+ms">
+
+<a href="https://play.google.com/store/apps/details?id=com.examnagar.app"><img alt="ExamNagar on Google Play" src="https://img.shields.io/badge/Google_Play-ExamNagar-414141?style=flat-square&logo=googleplay&logoColor=white"></a>
+<a href="https://examnagar.com"><img alt="examnagar.com status" src="https://img.shields.io/website?url=https%3A%2F%2Fexamnagar.com&style=flat-square&label=examnagar.com&up_message=live&up_color=2ea44f&down_message=down&down_color=critical"></a>
+<a href="https://api.examnagar.com"><img alt="api.examnagar.com status" src="https://img.shields.io/website?url=https%3A%2F%2Fapi.examnagar.com&style=flat-square&label=api.examnagar.com&up_message=live&up_color=2ea44f&down_message=down&down_color=critical"></a>
+<a href="https://sarkari.site"><img alt="sarkari.site status" src="https://img.shields.io/website?url=https%3A%2F%2Fsarkari.site&style=flat-square&label=sarkari.site&up_message=live&up_color=2ea44f&down_message=down&down_color=critical"></a>
+<a href="mailto:manjotsingh620026@gmail.com"><img alt="Email manjotsingh620026@gmail.com" src="https://img.shields.io/badge/Email-manjotsingh620026%40gmail.com-414141?style=flat-square&logo=gmail&logoColor=white"></a>
+
+</div>
 
 The main one is **[ExamNagar](https://examnagar.com)**, a travel planner for Indian government-exam candidates. It answers one question end to end: *will I reach my exam centre on time, and how?* It is live on Google Play, publishes 16,640 static route pages, and runs on an API load-tested to **4,300 requests a second with 0.00% failed**.
 
-Alongside it, **Sarkari Engine** builds government recruitment pages only from what official boards publish.
-
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.examnagar.app"><img alt="ExamNagar on Google Play" src="https://img.shields.io/badge/Google_Play-ExamNagar-414141?style=flat-square&logo=googleplay&logoColor=white"></a>
-  <a href="https://examnagar.com"><img alt="examnagar.com status" src="https://img.shields.io/website?url=https%3A%2F%2Fexamnagar.com&style=flat-square&label=examnagar.com&up_message=live&up_color=2ea44f&down_message=down&down_color=critical"></a>
-  <a href="https://api.examnagar.com"><img alt="api.examnagar.com status" src="https://img.shields.io/website?url=https%3A%2F%2Fapi.examnagar.com&style=flat-square&label=api.examnagar.com&up_message=live&up_color=2ea44f&down_message=down&down_color=critical"></a>
-  <a href="mailto:manjotsingh620026@gmail.com"><img alt="Email manjotsingh620026@gmail.com" src="https://img.shields.io/badge/Email-manjotsingh620026%40gmail.com-414141?style=flat-square&logo=gmail&logoColor=white"></a>
-</p>
+Alongside it, **[Sarkari Engine](https://sarkari.site)** builds government recruitment pages only from what official boards publish.
 
 ---
 
@@ -38,11 +43,13 @@ flowchart LR
 
 | Repo | What it is | Proof |
 |---|---|---|
-| [examnagar-backend](https://github.com/Manj620026/examnagar-backend) | Node 22 API on two production nodes | 4,300 rps, 0.00% failed |
-| [examnagar-frontend](https://github.com/Manj620026/examnagar-frontend) | React 19 + Capacitor Android app | Live on Google Play |
-| [examnagar-seo](https://github.com/Manj620026/examnagar-seo) | Zero-dependency static site generator | 16,640 pages |
-| [examnagar-studio](https://github.com/Manj620026/examnagar-studio) | Instagram content pipeline | 126 tests passing |
-| [examnagar-admin](https://github.com/Manj620026/examnagar-admin) | Operations panel, 38 endpoints | Surfaced 9 production bugs |
+| `examnagar-backend` | Node 22 API on two production nodes | 4,300 rps, 0.00% failed |
+| `examnagar-frontend` | React 19 + Capacitor Android app | Live on Google Play |
+| `examnagar-seo` | Zero-dependency static site generator | 16,640 pages |
+| `examnagar-studio` | Instagram content pipeline | 126 tests passing |
+| `examnagar-admin` | Operations panel, 38 endpoints | Surfaced 9 production bugs |
+
+*The source for all six repos on this page is private for now. I'm happy to walk through any of it: [email me](mailto:manjotsingh620026@gmail.com).*
 
 <details>
 <summary><b>examnagar-backend</b>: the hard parts</summary>
@@ -97,7 +104,7 @@ flowchart LR
 
 Indian government recruitment data, built only from what official boards publish. A poller watches board sites, a four-layer Gemini pipeline reads the PDFs they post, and a React SSR build turns the extracted facts into static pages. No scraping of other results sites.
 
-The poller's scope is national: SSC, RRB, IBPS, UPSC, UPSSSC, NTA, MP ESB, state commissions and 111 district boards. Built pages start with two Bihar boards, BTSC and CSBC. → [sarkari-engine](https://github.com/Manj620026/sarkari-engine)
+The poller's scope is national: SSC, RRB, IBPS, UPSC, UPSSSC, NTA, MP ESB, state commissions and 111 district boards. Built pages start with two Bihar boards, BTSC and CSBC. → [sarkari.site](https://sarkari.site)
 
 <details>
 <summary><b>sarkari-engine</b>: the hard parts</summary>
@@ -122,11 +129,18 @@ The poller's scope is national: SSC, RRB, IBPS, UPSC, UPSSSC, NTA, MP ESB, state
 
 #### Stack
 
+<img alt="Node.js, Express, MongoDB, Redis, React, TypeScript, Vite, Tailwind, nginx, Google Cloud, Cloudflare, Firebase, Android" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,react,ts,vite,tailwind,nginx,gcp,cloudflare,firebase,androidstudio">
+
+<details>
+<summary>Grouped, including the tools that don't have an icon</summary>
+
 - **Backend & data:** Node.js, Express, MongoDB, Redis, BullMQ, Firebase Cloud Messaging
 - **Web & mobile:** React 19, TypeScript, Vite, Capacitor (Android), TanStack Query, Tailwind
 - **Infrastructure:** nginx, PM2, WireGuard, Google Cloud (Spot VMs, Cloud Run), Cloudflare Pages
 - **Automation & AI:** Puppeteer, Gemini and Vertex AI
 - **Testing & load:** k6, Jest, fast-check, node:test
+
+</details>
 
 #### Now
 
