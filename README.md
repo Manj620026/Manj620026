@@ -1,22 +1,3 @@
-<!--
-  DRAFT. Not public yet, on purpose.
-
-  GitHub only shows a profile README when this repository (Manj620026/Manj620026)
-  is PUBLIC, so keeping it private is draft mode. Nothing here is visible until then.
-
-  Before making it public, in this order:
-  1. Make the six project repos public first. Every repo link below 404s for a
-     logged-out visitor until they are.
-  2. examnagar-backend and examnagar-frontend: scrub the production IPs from docs/,
-     and restrict the Firebase API keys in Google Cloud console.
-  3. Re-read "Now". It has to still be true on the day this goes live.
-  4. Open github.com/Manj620026 in a logged-out window. Click every link, and
-     confirm the diagram renders on the profile page itself.
-  5. Pin six repos in this order: examnagar-backend, examnagar-frontend,
-     sarkari-engine, examnagar-seo, examnagar-studio, examnagar-admin.
-  6. Delete this comment.
--->
-
 ### Hi, I'm Manjot 👋
 
 I design, ship and run production systems.
