@@ -160,7 +160,7 @@ The poller's scope is national: SSC, RRB, IBPS, UPSC, UPSSSC, NTA, MP ESB, state
 
 - **Backend & data:** Node.js, Express, MongoDB, Redis, BullMQ, Firebase Cloud Messaging
 - **Web & mobile:** React 19, TypeScript, Vite, Capacitor (Android), TanStack Query, Tailwind
-- **Infrastructure:** nginx, PM2, WireGuard, Google Cloud (Spot VMs, Cloud Run), Cloudflare Pages
+- **Infrastructure:** nginx, PM2, WireGuard, Google Cloud (Spot VMs, Cloud Run), AWS (EC2, ECS, IAM, Elastic IP), Cloudflare Pages
 - **Automation & AI:** Puppeteer, Gemini and Vertex AI
 - **Testing & load:** k6, Jest, fast-check, node:test
 
