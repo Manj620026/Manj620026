@@ -147,6 +147,7 @@ The poller's scope is national: SSC, RRB, IBPS, UPSC, UPSSSC, NTA, MP ESB, state
 <img width="48" height="48" src="https://raw.githubusercontent.com/Manj620026/Manj620026/main/assets/icons/pm2.svg" alt="PM2" title="PM2">
 <img width="48" height="48" src="https://raw.githubusercontent.com/Manj620026/Manj620026/main/assets/icons/wireguard.svg" alt="WireGuard" title="WireGuard">
 <img width="48" height="48" src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" title="Google Cloud">
+<img width="48" height="48" src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS (EC2, ECS, IAM)">
 <img width="48" height="48" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare">
 <img width="48" height="48" src="https://raw.githubusercontent.com/Manj620026/Manj620026/main/assets/icons/cloudflarepages.svg" alt="Cloudflare Pages" title="Cloudflare Pages">
 <img width="48" height="48" src="https://raw.githubusercontent.com/Manj620026/Manj620026/main/assets/icons/puppeteer.svg" alt="Puppeteer" title="Puppeteer">
